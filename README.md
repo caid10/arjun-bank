@@ -23,19 +23,19 @@ Anytime you can access your account by clicking on the log-in button
 # Installation and Setup :
 First Of all, you have to download the zip file which contains the well-explained and commented source code along with the all images resources, and the database. Use the below button to download the Zip File of the Bank management system project source code.
 # step1
- !Download the zip file
+ ! Download the zip file
  
  database : This Folder contains the login credentials and account details in text format
 
 images: This folder contains all the images required or used in the project
 
-#step2
-!Setup of Bank Management Project
+# step2
+! Setup of Bank Management Project
 
 So after you have downloaded the zip file you need to the mainProject.py file but before that, you need to install the required packages or modules in order to run the mainProject.py File otherwise you will face errors.
 
-#step3
-!Required Packages
+# step3
+! Required Packages
 
 os  # for creating directories Admin/Customer if it is not exists.
 datetime # for date of account creation when new customer account is created.
